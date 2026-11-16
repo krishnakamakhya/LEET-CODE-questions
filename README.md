@@ -70,7 +70,6 @@ My collection of Data Structures, Algorithms, and Database solutions from LeetCo
 | 1587 | [Bank Account Summary II](https://leetcode.com) | Easy | [Solution](./Easy/1587-bank-account-summary-ii.sql) |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com) | Easy | [Solution](./Easy/1773-count-items-matching-a-rule.c) |
 | 1848 | [Minimum Distance to the Target Element](https://leetcode.com) | Easy | [Solution](./Easy/1848-minimum-distance-to-the-target-element.c) |
-
 | 1873 | [Calculate Special Bonus](https://leetcode.com) | Easy | [Solution](./Easy/1873-calculate-special-bonus.sql) |
 | 1909 | [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com) | Easy | [Solution](./Easy/1909-remove-one-element-to-make-the-array-strictly-increasing.c) |
 | 2404 | [Most Frequent Even Element](https://leetcode.com) | Easy | [Solution](./Easy/2404-most-frequent-even-element.c) |
